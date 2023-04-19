@@ -5,3 +5,4 @@ For configure my first codespace
 2. Created a repo
 3. Created a Codespace for that repo
 4. Modifyed a readme file
+5. Work in terminal
